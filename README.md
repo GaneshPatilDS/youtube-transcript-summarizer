@@ -27,6 +27,8 @@ To run the YouTube Transcript Summarizer locally, follow these steps:
 2. Click the "Get Detailed Notes" button to generate the summary.
 3. View the detailed notes provided by the application.
 
+   
+
 ## Technologies Used
 
 - Streamlit: For building the interactive web application.
@@ -36,6 +38,51 @@ To run the YouTube Transcript Summarizer locally, follow these steps:
 ## Acknowledgements
 
 Special thanks to Google Generative AI for providing access to the Gemini Pro AI.
+
+
+## Screenshots
+
+Here are some screenshots showcasing the YouTube Transcript Summarizer application:
+
+### Home Page
+
+
+![Home Page](https://github.com/GaneshPatilDS/youtube-transcript-summarizer/assets/123234894/f3d6377a-42c9-4e69-aa1c-1cdd4c049b8e)
+
+
+### Video Transcript Input
+
+
+![Video Transcript Input](https://github.com/GaneshPatilDS/youtube-transcript-summarizer/assets/123234894/9a44e3af-7a64-4940-8869-a48be7f58762)
+
+
+### Summary Generation
+
+
+![Summary Generation](https://github.com/GaneshPatilDS/youtube-transcript-summarizer/assets/123234894/b61a08ea-f903-48e3-b147-de3d6178733e)
+
+
+### Detailed Notes
+
+![Detailed Notes](https://github.com/GaneshPatilDS/youtube-transcript-summarizer/assets/123234894/8566d522-1e28-4fd4-b3ac-20c695798697)
+
+
+### Responsive Design
+
+
+![Responsive Design](https://github.com/GaneshPatilDS/youtube-transcript-summarizer/assets/123234894/89a22b84-8c9c-423e-8060-7bf908c7d27e)
+
+
+
+![Mobile View](https://github.com/GaneshPatilDS/youtube-transcript-summarizer/assets/123234894/56a67e8f-259a-4661-be2d-ba7f0c26b652)
+
+
+
+
+
+
+
+
 
 ---
 
