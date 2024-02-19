@@ -55,25 +55,23 @@ Here are some screenshots showcasing the YouTube Transcript Summarizer applicati
 
 ---
 
-### Summary Generation
+### paste URL
 
 ![Summary Generation](https://github.com/GaneshPatilDS/youtube-transcript-summarizer/assets/123234894/b61a08ea-f903-48e3-b147-de3d6178733e)
 
 ---
 
-### Detailed Notes
+
 
 ![Detailed Notes](https://github.com/GaneshPatilDS/youtube-transcript-summarizer/assets/123234894/8566d522-1e28-4fd4-b3ac-20c695798697)
 
 ---
 
-### Responsive Design
 
 ![Responsive Design](https://github.com/GaneshPatilDS/youtube-transcript-summarizer/assets/123234894/89a22b84-8c9c-423e-8060-7bf908c7d27e)
 
 ---
 
-### Mobile View
 
 ![Mobile View](https://github.com/GaneshPatilDS/youtube-transcript-summarizer/assets/123234894/56a67e8f-259a-4661-be2d-ba7f0c26b652)
 
